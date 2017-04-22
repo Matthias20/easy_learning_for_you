@@ -1,0 +1,25 @@
+E:\Programmieren\C#\easy_learning\easy_learning\bin\Debug\easy_learning.exe.config
+E:\Programmieren\C#\easy_learning\easy_learning\bin\Debug\easy_learning.exe
+E:\Programmieren\C#\easy_learning\easy_learning\bin\Debug\easy_learning.pdb
+E:\Programmieren\C#\easy_learning\easy_learning\obj\Debug\easy_learning.csprojResolveAssemblyReference.cache
+E:\Programmieren\C#\easy_learning\easy_learning\obj\Debug\easy_learning.Form1.resources
+E:\Programmieren\C#\easy_learning\easy_learning\obj\Debug\easy_learning.Properties.Resources.resources
+E:\Programmieren\C#\easy_learning\easy_learning\obj\Debug\easy_learning.csproj.GenerateResource.Cache
+E:\Programmieren\C#\easy_learning\easy_learning\obj\Debug\easy_learning.exe
+E:\Programmieren\C#\easy_learning\easy_learning\obj\Debug\easy_learning.pdb
+E:\Programmieren\easy learning\Programm\easy_learning\easy_learning\bin\Debug\easy_learning.exe.config
+E:\Programmieren\easy learning\Programm\easy_learning\easy_learning\obj\Debug\easy_learning.exe
+E:\Programmieren\easy learning\Programm\easy_learning\easy_learning\obj\Debug\easy_learning.pdb
+E:\Programmieren\easy learning\Programm\easy_learning\easy_learning\obj\Debug\easy_learning.csprojResolveAssemblyReference.cache
+E:\Programmieren\easy learning\Programm\easy_learning\easy_learning\obj\Debug\easy_learning.Form1.resources
+E:\Programmieren\easy learning\Programm\easy_learning\easy_learning\obj\Debug\easy_learning.Properties.Resources.resources
+E:\Programmieren\easy learning\Programm\easy_learning\easy_learning\obj\Debug\easy_learning.csproj.GenerateResource.Cache
+E:\Programmieren\easy learning\Programm\easy_learning\easy_learning\bin\Debug\easy_learning.exe
+E:\Programmieren\easy learning\Programm\easy_learning\easy_learning\bin\Debug\easy_learning.pdb
+E:\Programmieren\easy learning\Programm\easy_learning\easy_learning\bin\Debug\My_DB_Vokabel.mdf
+E:\Programmieren\easy learning\Programm\easy_learning\easy_learning\bin\Debug\My_DB_Vokabel_log.ldf
+E:\Programmieren\easy learning\Programm\easy_learning\easy_learning\bin\Debug\My_DB.mdf
+E:\Programmieren\easy learning\Programm\easy_learning\easy_learning\bin\Debug\My_DB_log.ldf
+E:\Programmieren\easy learning\Programm\easy_learning\easy_learning\obj\Debug\easy_learning.Form2.resources
+E:\Programmieren\easy learning\Programm\easy_learning\easy_learning\bin\Debug\MyDB2_Vokabel.mdf
+E:\Programmieren\easy learning\Programm\easy_learning\easy_learning\bin\Debug\MyDB2_Vokabel_log.ldf
